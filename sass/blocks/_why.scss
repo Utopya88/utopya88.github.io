@@ -1,0 +1,20 @@
+.why {
+    padding-top: 100px;
+    min-height: 600px;
+    &_text {
+        margin-top: 45px;
+        font-size: 23px;
+        color: #9900FF;
+    }
+    &_block {
+        
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 25px;
+       
+    }
+    span {
+        color: #9999FF;
+    }
+}
