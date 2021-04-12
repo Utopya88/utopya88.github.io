@@ -28,7 +28,7 @@ $(document).ready(function(){
         adaptiveHeight: true,
         autoplay: true,
         fade: true,
-        cssEase: 'ease-out',
+        cssEase: "linear"
         arrows: false,
         autoplaySpeed: 600
     });
