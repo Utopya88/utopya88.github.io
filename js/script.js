@@ -29,6 +29,7 @@ $(document).ready(function(){
         autoplay: true,
         fade: true,
         cssEase: 'ease-out',
-        arrows: false
+        arrows: false,
+        autoplaySpeed: 600
     });
   });
